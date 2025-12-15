@@ -440,16 +440,16 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
-          description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
+            },},{id: "news-a-long-announcement-with-details",
           title: 'A long announcement with details',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+          description: "",
+          section: "News",},{id: "news-i-have-been-awarded-a-fulbright-scholarship-for-the-2025-2026-academic-year-to-visit-the-new-york-university-department-of-philosophy-supervised-by-kit-fine",
+          title: 'I have been awarded a Fulbright Scholarship for the 2025-2026 academic year to...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',

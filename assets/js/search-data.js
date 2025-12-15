@@ -508,7 +508,7 @@ ninja.data = [{
         title: 'Semantic Scholar',
         section: 'Socials',
         handler: () => {
-          window.open("https://www.semanticscholar.org/author/https://www.semanticscholar.org/author/Dean-McHugh/2359443490", "_blank");
+          window.open("https://www.semanticscholar.org/author/Dean-McHugh/2359443490", "_blank");
         },
       },{
       id: 'light-theme',

@@ -473,7 +473,7 @@ ninja.data = [{
         title: 'CV',
         section: 'Socials',
         handler: () => {
-          window.open("/assets/pdf/example_pdf.pdf", "_blank");
+          window.open("/assets/pdf/academic-cv", "_blank");
         },
       },{
         id: 'social-email',
@@ -494,7 +494,7 @@ ninja.data = [{
         title: 'ResearchGate',
         section: 'Socials',
         handler: () => {
-          window.open("https://www.researchgate.net/profile/https://www.researchgate.net/profile/Dean-Mchugh-2/", "_blank");
+          window.open("https://www.researchgate.net/profile/Dean-Mchugh-2/", "_blank");
         },
       },{
         id: 'social-scholar',
@@ -508,7 +508,7 @@ ninja.data = [{
         title: 'Semantic Scholar',
         section: 'Socials',
         handler: () => {
-          window.open("https://www.semanticscholar.org/author/", "_blank");
+          window.open("https://www.semanticscholar.org/author/https://www.semanticscholar.org/author/Dean-McHugh/2359443490", "_blank");
         },
       },{
       id: 'light-theme',

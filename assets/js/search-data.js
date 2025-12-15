@@ -398,12 +398,10 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
+            },},{id: "news-in-july-2025-i-will-start-a-new-position-as-a-postdoctoral-reseracher-at-the-university-of-edinburgh-linguistics-department-supervised-by-daniel-lassiter-on-a-joint-project-with-michael-franke-karl-mulligan-and-erik-zeiner-in-tübingen",
+          title: 'In July 2025 I will start a new position as a Postdoctoral Reseracher...',
           description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
+          section: "News",},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
           section: "News",},{id: "news-i-have-been-awarded-a-fulbright-scholarship-for-the-2025-2026-academic-year-to-visit-the-new-york-university-department-of-philosophy-supervised-by-kit-fine",

@@ -1,10 +1,14 @@
 ---
 layout: page
-title: FigureAndGround
+title: Figure and Ground
 permalink: /figureandground/
 ---
 
-<iframe
-  src="/assets/pdfjs/web/viewer.html?file=%2Fassets%2Fpdfs%2FFigureAndGroundInCounterfactuals.pdf"
-  style="width:100%; height: 90vh; border:0;"
-></iframe>
+<div style="width: 100%; height: 90vh;">
+  <iframe
+    src="{{ '/assets/pdfjs/web/viewer.html' | relative_url }}?file={{ '/assets/pdfs/figureandground.pdf' | relative_url | uri_escape }}"
+    style="width: 100%; height: 100%; border: 0;"
+    loading="lazy"
+    allowfullscreen
+  ></iframe>
+</div>

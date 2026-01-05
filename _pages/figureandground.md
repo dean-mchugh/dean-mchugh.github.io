@@ -2,9 +2,10 @@
 
 <h1>Figure and Ground in Counterfactuals</h1>
 
-<object data="/assets/pdfs/figureandgroundincounterfactuals.pdf" type="application/pdf" width="100%" height="900">
+<object data="/assets/pdfs/FigureAndGroundInCounterfactuals.pdf" type="application/pdf" width="100%" height="900">
   <p>
     Your browser can’t display PDFs inline.
-    <a href="/assets/pdfs/figureandgroundincounterfactuals.pdf">Open the PDF</a>.
+    <a href="assets/pdf/FigureAndGroundInCounterfactuals.pdf">Open the PDF</a>.
   </p>
 </object>
+

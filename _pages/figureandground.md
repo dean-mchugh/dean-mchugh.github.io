@@ -12,6 +12,6 @@ permalink: /figureandground/
 </p>
 
 <iframe
-  src="/assets/pdfs/figureandground.pdf"
+  src="/assets/pdf/figureandground.pdf"
   style="width:100%; height:90vh; border:0;"
 ></iframe>

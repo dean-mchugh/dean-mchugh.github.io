@@ -5,7 +5,7 @@ permalink: /figureandground/
 ---
 
 <p>
-  <a href="/assets/pdfs/figureandground.pdf" target="_blank" rel="noopener">
+  <a href="/assets/pdf/figureandground.pdf" target="_blank" rel="noopener">
     Open the PDF in a new tab
   </a>
   (native viewer)

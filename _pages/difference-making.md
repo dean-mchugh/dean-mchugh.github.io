@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 
+title: An analysis of difference-making
 permalink: /difference-making/
 ---
 

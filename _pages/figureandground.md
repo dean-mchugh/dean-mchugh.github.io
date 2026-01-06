@@ -4,9 +4,4 @@ title: Figure and Ground
 permalink: /figureandground/
 ---
 
-<object data="/assets/pdf/figureandground.pdf" type="application/pdf" width="100%" height="900">
-  <p>
-    Your browser can’t display PDFs inline.
-    <a href="/assets/pdf/figureandground.pdf" target="_blank" rel="noopener">Open the PDF</a>.
-  </p>
-</object>
+<iframe src="assets/pdf/FigureAndGroundInCounterfactuals.pdf" width="100%" height="500px"></iframe>

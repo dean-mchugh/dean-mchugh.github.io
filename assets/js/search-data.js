@@ -37,6 +37,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
+        },{id: "nav-outreach",
+          title: "outreach",
+          description: "Public engagement, interviews and media.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/outreach/";
+          },
         },{id: "post-a-post-with-plotly-js",
         
           title: "a post with plotly.js",

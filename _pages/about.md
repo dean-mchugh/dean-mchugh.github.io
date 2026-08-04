@@ -9,9 +9,9 @@ profile:
   image: prof_pic.jpg
   image_circular: false
   more_info: >
-    <p>5 Washington Place</p>
-    <p>Department of Philosophy</p>
-    <p>New York University</p>
+    <p>Dugald Stewart Building</p>
+    <p>Department of Linguistics</p>
+    <p>University of Edinburgh</p>
 
 selected_papers: true
 social: true

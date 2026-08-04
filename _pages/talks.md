@@ -13,15 +13,14 @@ nav_order: 3
 Semantics and Linguistic Theory ([SALT](https://saltconf.github.io/salt36/)) 36, University of Buenos Aires, Argentina, 29--31 July 2026.
 Joint work with Tomasz Klochowicz and Ivano Ciardelli.
 
-**To be announced**
-University of Connecticut, April 2026.
-
-**To be announced**
-Semantics Seminar, New York University Linguistics Department, 26 March 2026.
+**Modal reasoning as conditional reasoning**
+University of Connecticut Meaning Group, 8 April 2026.
 
 **Alternatives in conditional modality**
-MIT Linguistics Department, March 2026.
+MIT Linguistics Department, 5 March 2026.
 [Handout](https://github.com/dean-mchugh/site/blob/09783bf7c89a7a7b42e06538c7235eae75d208c1/MIT_LingLunch_Handout_March_2026-3.pdf)
+Semantics Seminar, New York University Linguistics Department, 26 March 2026.
+University of Connecticut Semantics Seminar, 10 April 2026.
 
 **Figure and ground in counterfactuals**
 New York University Philosophy Department, 17 February 2026.

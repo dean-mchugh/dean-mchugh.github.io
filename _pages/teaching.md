@@ -23,7 +23,7 @@ Lecturer. Paris Summer School on Conditionals. June 2026.
 
 **Current Formal Models of Counterfactuals and Causation**
 Lecturer, co-taught with Tomasz Wysocki. North American Summer School for Logic, Language, and Information ([NASSLLI](https://nasslli25.shane.st/schedule/)), Seattle. 23--27 June 2025.
-[Slides 1](/assets/pdf/NASSLLI_Day_1__Counterfactuals-3.pdf) &#124; [Slides 2](assets/pdf/NASSLLI_2025__Sufficiency.pdf)
+[Slides 1](/assets/pdf/NASSLLI-2025-1.pdf) &#124; [Slides 2](/assets/pdf/NASSLLI-2025-2.pdf)
 
 ## Lecturing
 

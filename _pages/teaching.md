@@ -12,7 +12,7 @@ nav_order: 4
 Lecturer. Deutsche Gesellschaft für Sprachwissenschaft ([DGfS](https://dgfs.de/en/content/events/summerschools)) Summer School, Bielefeld University. August 2026.
 
 **Conditional Modality**
-Lecturer. European Summer School in Logic, Language, and Information ([ESSLLI](https://2026.esslli.eu/)), Prague. August 2026. [Day 1](assets/pdf/esslli2026day1.pdf) [Day 2](assets/pdf/esslli2026day3.pdf) [Day 3](assets/pdf/esslli2026day3.pdf) Day 4 Day 5
+Lecturer. European Summer School in Logic, Language, and Information ([ESSLLI](https://2026.esslli.eu/)), Prague. August 2026. [Day 1](/assets/pdf/esslli2026/day1.pdf) [Day 2](/assets/pdf/esslli2026/day3.pdf) [Day 3](/assets/pdf/esslli2026/day3.pdf) Day 4 Day 5
 
 **Causal Models and Meanings**
 Lecturer. Yerevan Academy for Linguistics and Philosophy ([YALP](https://sites.google.com/view/yalp2017/yalp-2026)). July 2026.

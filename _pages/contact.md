@@ -9,10 +9,6 @@ description: Contact information.
 
   ## Visiting Addresses
 
-  5 Washington Place, New York (NYU Philosophy)
-
-10 Washington Place, New York (NYU Linguistics)
-
 Dugald Stewart Building, Edinburgh (Edinburgh)
 
 ## Email

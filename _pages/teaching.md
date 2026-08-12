@@ -12,7 +12,7 @@ nav_order: 4
 Lecturer. Paris Summer School on Conditionals. October 2026.
 
 **Conditionals**
-Lecturer. Deutsche Gesellschaft für Sprachwissenschaft ([DGfS](https://dgfs.de/en/content/events/summerschools)) Summer School, Bielefeld University. August 2026. [Monday](/assets/pdf/bielefeld2026/day1.pdf) | [Tuesday](/assets/pdf/bielefeld2026/day2.pdf)
+Lecturer. Deutsche Gesellschaft für Sprachwissenschaft ([DGfS](https://dgfs.de/en/content/events/summerschools)) Summer School, Bielefeld University. August 2026. [Monday](/assets/pdf/bielefeld2026/day1.pdf) | [Tuesday](/assets/pdf/bielefeld2026/day2.pdf) | [Wednesday](/assets/pdf/bielefeld2026/day3.pdf) | [Thursday](/assets/pdf/bielefeld2026/day4.pdf) | [Friday](/assets/pdf/bielefeld2026/day5.pdf)
 
 **Conditional Modality**
 Lecturer. European Summer School in Logic, Language, and Information ([ESSLLI](https://2026.esslli.eu/)), Prague. August 2026. [Monday](/assets/pdf/esslli2026/day1.pdf) | [Tuesday](/assets/pdf/esslli2026/day2.pdf) | [Wednesday](/assets/pdf/esslli2026/day3.pdf) | [Thursday](/assets/pdf/esslli2026/day4.pdf) | [Friday](/assets/pdf/esslli2026/day5.pdf)

@@ -1,0 +1,18 @@
+Exercise 
+
+Let W contain four worlds: W = {pq, p~q, ~pq, ~p~q}.
+
+That is, p is true at pq and p~q, and false at ~pq, ~p~q; 
+q is true at pq and ~pq, and false at p~q, ~p~q.
+
+Let g(w) be a set of propositions. Define the order ≤g(w) by:
+
+w' ≤g(w) w'' iff for all p in g(w), if w'' in p, w' in p.
+
+EXERCISE. Let w = pq, g1(w) = {p, q} and g2(w) = {p n q}.
+Determine the orders ≤g1(w) and ≤g2(w).
+
+That is, for all worlds w' and w'' in W, 
+determine whether w' ≤g1(w) w'' and whether w' ≤g2(w) w''.
+
+Are ≤g1(w) and ≤g2(w) the same?
